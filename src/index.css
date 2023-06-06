@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#chat-container {
+    min-height: 70vh;
+    border-radius: 8px;
+}
